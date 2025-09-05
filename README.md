@@ -1,10 +1,10 @@
 # 🧮 Simple Calculator
 
 A basic Python calculator that performs addition, subtraction, multiplication, and division.  
-Built as a beginner project after completing *Python for Everybody*.
+Built as a beginner project after completing *Python for Everybody's* first two chapters.
 
 ## 🚀 Features
-- Add, subtract, multiply, divide
+- Add, subtract, multiply, divide, Find Sqrt, Power^
 - User-friendly command-line interface
 - Runs until the user chooses to quit
 
