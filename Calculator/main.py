@@ -4,7 +4,7 @@ import math  # import math module
 def calculator():
     while True:
         print("\n___Simple Calculator___")
-        operation = input("Enter operation (+, -, *, /, sqrt, ^ exit): ")  # input operation
+        operation = input("Enter operation (+, -, *, /, sqrt, ^, exit): ")  # input operation
 
         if operation == 'exit':
             print("Exiting the calculator. Goodbye!")
